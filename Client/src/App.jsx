@@ -19,7 +19,7 @@ const App = () => {
         </p>
       </div>
       <Dishes />
-      <Header />
+      <footer>2025 Symfor, All Rights Reserved</footer>
     </div>
   );
 };
