@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  width: 90vw;
+  color: black;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  list-style: none;
+}
+
+li {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: underline;
+  color: blue;
+}
