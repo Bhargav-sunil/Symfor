@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Header from "./components/Header/Header";
-import Category from "./components/category/Category";
+import Category from "./components/Category/Category";
 import "./App.css";
 import Dishes from "./components/Dishes/Dishes";
 
